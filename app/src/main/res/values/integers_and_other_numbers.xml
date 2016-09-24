@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--MainActivity3.java-->
+    <integer name="mainSpeedOfMovingDots">10</integer>
+    <integer name="secondSpeedLessThanMainIn">10</integer>
+    <integer name="radiusOfBigCircles">10</integer>
+    <integer name="mainStrokeWidth">5</integer>
+    <integer name="changeToSecondSpeedIfLessThan">5</integer>
+    <integer name="radiusOfSmallCircles">3</integer>
+    <integer name="sleepAfterLinesCrossed">1500</integer>
+    <integer name="regularScore">5</integer>
+    <integer name="targetHitScore">20</integer>
+
+</resources>

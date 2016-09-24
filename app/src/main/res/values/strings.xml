@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lines</string>
+
+    <!--Test Device id-->
+    <string name="testDeviceID">E6F414072B57521A775C6523366B5F84</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_main">ca-app-pub-1177796412513330/1701344204</string>
+
+    <!--start_activity.XML-->
+    <string name="startNewGameBigSign">START NEW GAME -></string>
+
+    <!--activity_main.XML-->
+    <string name="bigSignGameOver">GAME OVER</string>
+    <string name="exitText">&lt;-Exit</string>
+    <string name="newText">New-></string>
+    <string name="scoreText">00000</string>
+
+</resources>

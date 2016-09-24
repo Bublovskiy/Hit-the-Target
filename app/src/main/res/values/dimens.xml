@@ -1,0 +1,12 @@
+<resources>
+   <!--start_activity.XML-->
+    <dimen name="startTargetWidth">300dp</dimen>
+    <dimen name="startTargetHeight">300dp</dimen>
+    <dimen name="startNewGameTextFontSize">40sp</dimen>
+
+    <!--activity_main.XML-->
+    <dimen name="gameOverText">70sp</dimen>
+    <dimen name="targetImageViewDim">50dp</dimen>
+    <dimen name="exitAndNewText">30sp</dimen>
+
+</resources>

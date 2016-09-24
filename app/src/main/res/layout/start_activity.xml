@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/startLayout"
+    tools:context="com.example.bublovskiy.moveaview.Start">
+
+    <ImageView
+        android:layout_width="@dimen/startTargetWidth"
+        android:layout_height="@dimen/startTargetHeight"
+        android:src="@drawable/target1"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="55dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/startNewGameBigSign"
+        android:id="@+id/textViewStart"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="55dp"
+        android:textSize="@dimen/startNewGameTextFontSize"
+        />
+
+</RelativeLayout>
